@@ -5,13 +5,15 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version = ruby 2.1.1p76
 
-* System dependencies
+* Rails version = 4.1.1
+
+* System dependencies - ubuntu 13.04
 
 * Configuration
 
-* Database creation
+* Database creation - sqlite
 
 * Database initialization
 
